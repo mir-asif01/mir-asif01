@@ -1,4 +1,3 @@
-<img src="https://giphy.com/explore/happy-programmers-day">
 <h1 align="center">Hi 👋, I'm Mir Kamrul Ahsan Asif</h1>
 <h3 align="center">Learning Web Development and Love to solve problems</h3>
 
