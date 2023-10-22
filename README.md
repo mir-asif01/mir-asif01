@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mir Kamrul Ahsan Asif Junior Front-End Developer.</h1>
-<h3 align="center">Learning Web Development and Love to solve problems</h3>
+<h1 align="center">Mir Kamrul Ahsan Asif</h1>
+<h2 align="center">😏JavaScript enthusiast</h2>
+<h2 align="center">Exploring the world of JavaScript</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mir-asif01&label=Profile%20views&color=0e75b6&style=flat" alt="mir-asif01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mir-asif01" alt="mir-asif01" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,JavaScript,ReactJs**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **asifbsb2002@gmail.com**
 
