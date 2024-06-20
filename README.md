@@ -1,19 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mir Kamrul Ahsan Asif</h1>
-<h3 align="center">A passionate MERN stack developer from Bogra,Bangladesh.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=15A7F7&center=true&random=false&width=600&lines=HI+THERE+%F0%9F%91%8B;I'M+MIR+KAMRUL+AHSAN+ASIF+%F0%9F%A5%B7;" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mir-asif01" alt="mir-asif01" /></a> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" align="center" height="auto" />
+   
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-kamrul-ahsan-asif-7a19a62b7/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554728202989)
 
-- 📫 How to reach me **asifbsb2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+#### 👦 ABOUT ME
+
+I'm **Mir Kamrul Ahsan Asif**. I'm a Junior Full Stack Web Developer(MERN) based in Bogra,BANGLADESH. I am very passionate about building web applications and turning my ideas into reality.
+
+---
+#### ⚔ SKILLS & TOOLS:
+<p align="center">
+     <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss,expressjs,nodejs,mongodb,firebase,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mir-asif01&show_icons=true&locale=en&layout=compact" alt="mir-asif01" /></p>
+---
+#### 📈 TOP MOST PROJECTS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mir-asif01&show_icons=true&locale=en" alt="mir-asif01" /></p>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=e_repair_shop-client&theme=dark)]([https://github.com/mir-asif01/e_repair_shop-client](https://github.com/mir-asif01/e_repair_shop-client))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=pro_task_frontend&theme=dark)]([https://github.com/mir-asif01/pro_task_frontend](https://github.com/mir-asif01/pro_task_frontend))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=projectile-frontend&theme=dark)]([https://github.com/mir-asif01/projectile-frontend](https://github.com/mir-asif01/projectile-frontend))
+#### 📈 MY GITHUB STATS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-asif01&" alt="mir-asif01" /></p>
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=mir-asif01&show_icons=true&theme=radical" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-asif01&show_icons=true&theme=radical" />
