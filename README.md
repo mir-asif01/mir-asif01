@@ -20,14 +20,6 @@ I'm **Mir Kamrul Ahsan Asif**. I'm a Junior Full Stack Web Developer(MERN) based
      <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss,expressjs,nodejs,mongodb,firebase,git,github,vscode" />
 </p>
 
-
----
-#### 📈 TOP MOST PROJECTS
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=e_repair_shop-client&theme=dark)]([https://github.com/mir-asif01/e_repair_shop-client](https://github.com/mir-asif01/e_repair_shop-client))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=pro_task_frontend&theme=dark)]([https://github.com/mir-asif01/pro_task_frontend](https://github.com/mir-asif01/pro_task_frontend))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=projectile-frontend&theme=dark)]([https://github.com/mir-asif01/projectile-frontend](https://github.com/mir-asif01/projectile-frontend))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mir-asif01&repo=poster_app-backend&theme=dark)]([https://github.com/mir-asif01/poster_app-backend](https://github.com/mir-asif01/poster_app-backend))
 #### 📈 MY GITHUB STATS
 
 <img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=mir-asif01&show_icons=true&theme=radical" />
