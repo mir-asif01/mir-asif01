@@ -15,9 +15,9 @@
 I'm **Mir Kamrul Ahsan Asif**. I'm a Software Developer from Bogra, Bangladesh. Currently working as a frontend developer in Rajshahi, Bangladesh.
 
 ---
-#### ⚔ SKILLS & TOOLS:
+#### ⚔ SKILLS
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss,expressjs,nodejs,mongodb,firebase,git,github,vscode" />
+     <img src="https://skillicons.dev/icons?i=javascript,typescript,go,react,next,tailwindcss,expressjs,nodejs,mongodb,supabase,firebase,git,github,vscode" />
 </p>
 
 #### 📈 MY GITHUB STATS
