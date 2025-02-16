@@ -12,7 +12,7 @@
 
 #### 👦 ABOUT ME
 
-I'm **Mir Kamrul Ahsan Asif**. I'm a Junior Full Stack Web Developer(MERN) based in Bogra,BANGLADESH. I am very passionate about building web applications and turning my ideas into reality.
+I'm **Mir Kamrul Ahsan Asif**. I'm a Software Developer from Bogra, Bangladesh. Currently working as a frontend developer in Rajshahi, Bangladesh.
 
 ---
 #### ⚔ SKILLS & TOOLS:
