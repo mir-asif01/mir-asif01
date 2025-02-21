@@ -12,7 +12,7 @@
 
 #### 👦 ABOUT ME
 
-I'm **Mir Kamrul Ahsan Asif**. I'm a Software Developer from Bogra, Bangladesh. Currently working as a frontend developer in Rajshahi, Bangladesh.
+I'm Mir Kamrul Ahsan Asif Software Developer from Bogra, Bangladesh. Currently working as a frontend developer in Rajshahi, Bangladesh. Passionate about full-stack development. Preferred languages **Javascript** and **Typescript**. Exploring **Golang**.
 
 ---
 #### ⚔ SKILLS
