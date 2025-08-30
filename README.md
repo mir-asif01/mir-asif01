@@ -3,9 +3,6 @@
 </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" align="center" height="auto" />
-   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mir-kamrul-ahsan-asif-7a19a62b7/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554728202989)
 
 
 ---
